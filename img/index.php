@@ -22,7 +22,7 @@
             </nav>
             <div class="content">
                 <h4>Hello! Nama saya</h4>
-                <h1>Fifit sholikhatul mufalah <span>Fifit</span></h1>
+                <h1><span>Fifit</span> sholikhatul mufalah</h1>
                 <h3>Saya seorang pelajar SMKN 1 Sayung</h1>
                     <div class="news">
                         <form action="">
@@ -37,7 +37,7 @@
             <img src="img/pro.jpg" alt="">
             <div class="about-text">
                 <h2>Tentang Kami</h2>
-                <h5>Developer<span>& Designer</h5>
+                <h5>Developer<span> & Designer</h5>
                     <p> saya adalah seorang progammer dan desainer di perusahaan ternama di indonesia</p>
                     <button type="button">Let's Talk</button>
         </div>
